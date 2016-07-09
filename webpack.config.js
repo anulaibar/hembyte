@@ -1,5 +1,5 @@
 module.exports = {
-    entry: './src/app.js',                        // Source file entry point
+    entry: './src/app.js',                          // Source file entry point
     output: {
         path: __dirname + '/build',                 // Production bundle destination directory
         filename: 'bundle.js',                      // Destination file name
