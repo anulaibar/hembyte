@@ -1,0 +1,12 @@
+.page {
+    display: flex;
+    flex-direction: column;
+    color: yellow;
+    font: 3em georgia;
+    box-sizing: border-box;
+}
+@media screen and (min-width: 480px) {
+    .page {
+        flex-direction: row;
+    }
+}

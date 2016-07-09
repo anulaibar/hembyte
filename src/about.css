@@ -1,0 +1,10 @@
+.about {
+    background: purple;
+    padding: 4%;
+    width: 100%;
+}
+@media screen and (min-width: 480px) {
+    .about {
+        width: 50%;
+    }
+}

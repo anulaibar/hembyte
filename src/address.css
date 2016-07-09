@@ -1,0 +1,10 @@
+.address {
+    background: green;
+    padding: 4%;
+    width: 100%;
+}
+@media screen and (min-width: 480px) {
+    .address {
+        width: 50%;
+    }
+}
